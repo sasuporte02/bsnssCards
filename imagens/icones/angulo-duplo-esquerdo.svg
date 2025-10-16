@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Nova_amostra_de_gradiente_1);
+      }
+
+      .st1 {
+        fill: url(#Nova_amostra_de_gradiente_11);
+      }
+    </style>
+    <linearGradient id="Nova_amostra_de_gradiente_1" data-name="Nova amostra de gradiente 1" x1="10.23" y1="256.05" x2="280.49" y2="256.05" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#4db9ad"/>
+      <stop offset=".22" stop-color="#339da6"/>
+      <stop offset=".4" stop-color="#1980a0"/>
+      <stop offset=".55" stop-color="#096f9c"/>
+      <stop offset=".66" stop-color="#04699b"/>
+      <stop offset=".82" stop-color="#165074"/>
+      <stop offset=".99" stop-color="#283b52"/>
+    </linearGradient>
+    <linearGradient id="Nova_amostra_de_gradiente_11" data-name="Nova amostra de gradiente 1" x1="204.68" x2="492.59" xlink:href="#Nova_amostra_de_gradiente_1"/>
+  </defs>
+  <path class="st0" d="M77.23,248.62L280.49,45.35,235.24.11,32,203.37c-29.03,29.08-29.03,76.18,0,105.26l203.24,203.37,45.25-45.25-203.26-203.37c-4.08-4.07-4.08-10.68,0-14.75h0Z"/>
+  <path class="st1" d="M492.59,45.35L447.34.11l-233.28,233.26c-12.5,12.49-12.51,32.75-.01,45.25,0,0,0,0,.01.01l233.28,233.37,45.25-45.25-210.65-210.75L492.59,45.35Z"/>
+</svg>

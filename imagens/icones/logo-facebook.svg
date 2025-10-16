@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Nova_amostra_de_gradiente_1);
+      }
+    </style>
+    <linearGradient id="Nova_amostra_de_gradiente_1" data-name="Nova amostra de gradiente 1" x1="441.18" y1="422.46" x2="18.26" y2="45.73" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#4db9ad"/>
+      <stop offset=".22" stop-color="#339da6"/>
+      <stop offset=".4" stop-color="#1980a0"/>
+      <stop offset=".55" stop-color="#096f9c"/>
+      <stop offset=".66" stop-color="#04699b"/>
+      <stop offset=".82" stop-color="#165074"/>
+      <stop offset=".99" stop-color="#283b52"/>
+    </linearGradient>
+  </defs>
+  <path class="st0" d="M512,257.56c0,127.77-93.74,233.69-216.11,252.91v-178.41h59.5l11.33-73.81h-70.83v-47.89c0-20.2,9.9-39.87,41.6-39.87h32.19v-62.85s-29.23-4.99-57.15-4.99c-58.33,0-96.43,35.35-96.43,99.33v56.26h-64.83v73.81h64.83v178.41C93.76,491.2,0,385.3,0,257.56,0,116.18,114.62,1.56,256,1.56s256,114.6,256,256Z"/>
+</svg>

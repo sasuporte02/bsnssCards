@@ -1,0 +1,151 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url(../imagens/background-sem-logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.master{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    
+ }
+
+.left-sidebar {
+    align-content: center;
+    align-items: center;
+    width: 60px;
+    flex-grow: 0;
+    height: 95vh;
+}
+
+.right-sidebar{
+    align-content:center;
+    align-items: center;
+    width: 60px;
+    flex-grow: 0;
+    height: 95vh;
+
+}
+
+.setas-direita {
+    margin-top: 200px;
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.conteiner.center{
+    flex: 1;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin: 0 50px;
+}
+
+.profile-picture {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 200%;
+    height: 50px;
+    object-fit: contain;
+    margin: 180px 0px 100px 0px;
+}
+
+.social-links button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    column-gap: 10px;
+    width: 100%;
+    max-width: 200%;
+    padding: 15px 100px 15px 20px;
+    box-sizing: border-box;
+    margin: 5% auto;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    color: #283b52;
+    background-color: #fff;
+    cursor: pointer;
+    box-shadow: 20px 20px 50px grey;
+}
+
+.picture{
+    width: 170px;
+    height: 170px;
+    max-width: 170px;
+    object-fit: contain;
+    align-items: center;
+}
+
+.icone-contato {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    margin: 10px 0px -10px -5px;
+}
+.icone-botao {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.social-links button:hover {
+    background-color: #005fa3;
+}
+
+@media (max-width: 500px){
+
+    .master {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .conteiner-center {
+        margin-top: 50px;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+        width: 100%;
+        flex-shrink: 0;
+    }
+
+    .right-sidebar {
+      display: none;
+    }
+
+    .left-sidebar {
+      display: none;
+    }
+
+    .setas-direita {
+        display:none;
+    }
+
+    .profile-picture {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        max-width: 200%;
+        height: 50px;
+        object-fit: contain;
+        margin: 100px 0px 100px 0px;
+    }
+     
+}
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.8.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 2)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Gradiente_sem_nome_11);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_11" data-name="Gradiente sem nome 11" x1="86.65" y1="70.4" x2="431.67" y2="448.7" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#283b52"/>
+      <stop offset=".09" stop-color="#30546e"/>
+      <stop offset=".21" stop-color="#3c7996"/>
+      <stop offset=".3" stop-color="#4390af"/>
+      <stop offset=".35" stop-color="#4699b9"/>
+      <stop offset=".64" stop-color="#4bb2af"/>
+      <stop offset=".71" stop-color="#4db9ad"/>
+    </linearGradient>
+  </defs>
+  <path class="st0" d="M256,0C114.62,0,0,114.62,0,256s114.62,256,256,256,256-114.62,256-256C511.85,114.68,397.32.15,256,0ZM341.33,277.33h-64v64c0,11.78-9.55,21.33-21.33,21.33s-21.33-9.55-21.33-21.33v-64h-64c-11.78,0-21.33-9.55-21.33-21.33s9.55-21.33,21.33-21.33h64v-64c0-11.78,9.55-21.33,21.33-21.33s21.33,9.55,21.33,21.33v64h64c11.78,0,21.33,9.55,21.33,21.33s-9.55,21.33-21.33,21.33Z"/>
+</svg>
